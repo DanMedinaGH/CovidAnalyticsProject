@@ -1,5 +1,9 @@
 # Overview
+<<<<<<< HEAD:SQL Files/SQL Data Exploration/README.md
 These are T-SQL queries are from the guided Covid SQL exploration project by Alex the Analyst. I followed along and added comments that are different from the video's to solidify my understanding.<br/><br/>
+=======
+These are T-SQL queries are from the guided Covid SQL EDA project by Alex the Analyst. I followed along and added comments that are different from the video's to solidify my understanding.<br/><br/>
+>>>>>>> 089024f01034f6f2a8bb63a4f2ff3b010927717e:SQL Files/SQL EDA/README.md
 The data was datasets were stored in two separate excel worbook files, "CovidDeaths.xlsx" and "CovidVaccinations.xlsx" and were uploaded into SQL Server via
 SSMS's "SQL Server 2022 Import and Export Data" wizard.<br/><br/>
 
