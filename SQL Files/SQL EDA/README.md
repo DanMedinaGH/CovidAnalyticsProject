@@ -1,5 +1,5 @@
 # Overview
-These are T-SQL queries are from the guided Covid SQL project by Alex the Analyst. I followed along and added comments that are different from the video's to solidify my understanding.<br/><br/>
+These are T-SQL queries are from the guided Covid SQL EDA project by Alex the Analyst. I followed along and added comments that are different from the video's to solidify my understanding.<br/><br/>
 The data was datasets were stored in two separate excel worbook files, "CovidDeaths.xlsx" and "CovidVaccinations.xlsx" and were uploaded into SQL Server via
 SSMS's "SQL Server 2022 Import and Export Data" wizard.<br/><br/>
 
