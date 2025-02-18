@@ -1,5 +1,4 @@
 # Overview
-<<<<<<< HEAD:SQL Files/SQL Data Exploration/README.md
 These are T-SQL queries are from the guided Covid SQL exploration project by Alex the Analyst. I followed along and added comments that are different from the video's to solidify my understanding.<br/><br/>
 =======
 These are T-SQL queries are from the guided Covid SQL EDA project by Alex the Analyst. I followed along and added comments that are different from the video's to solidify my understanding.<br/><br/>
