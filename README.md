@@ -2,7 +2,7 @@
 This repository contains files for the COVID data analytics guided project I followed <br/>
 created by Alex the Analyst 
 
-The end-to-end project contains four sub-projects on SQL EDA, Tableau, SQL Cleaning, and Python analysis.<br/>
+The end-to-end project contains four sub-projects on SQL data exploration, Tableau, SQL Cleaning, and Python analysis.<br/>
 
 First video can be found here: https://www.youtube.com/watch?v=qfyynHBFOsM
 
