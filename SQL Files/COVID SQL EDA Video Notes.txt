@@ -1,0 +1,27 @@
+Overview:
+This SQL project is a part of an end-to-end data analytics project by Alex the Analyst on his YouTube channel.
+
+Link here:https://www.youtube.com/watch?v=qfyynHBFOsM
+
+Tools Used:
+Excel
+SSMS
+T-SQL
+
+Dataset has information regarding COVID-19 cases starting from January 1st, 2020 to April 30th, 2021 such as
+total cases, new cases, total deaths, new deaths, total vaccinations, and population.
+
+Excel Transformations:
+Move Population data from end of the sheet next to total_cases and new_cases columns.
+Delete irrelevant data for analysis from sheet by using shortcut "CTL + SHIFT + Right Arrow Key"
+
+Moved data from covid spreadsheet dataset into separate CovidVaccinations and CovidDeaths spreadsheet datasets.
+
+Used the 2022 SQL Server Import and Export wizard to import data from Excel spreadsheets into SQL Server Database:
+-- The source was Microsoft Excel
+-- The destination was OLEDB Provider for SQL Server
+
+Troubleshooting:
+Required Microsoft Access Database Engine to be installed to use wizard.
+Also required integration services to be installed.
+CAST function was required for analysis because some numeric data was uploaded as NVARCHAR.
